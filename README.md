@@ -27,6 +27,6 @@ We implement and compare four community detection algorithms across different ne
 6. **UC Irvine College Messages** - Real directed network
 
 ## Project Structure
-├── notebooks/        # Jupyter notebooks with full analysis
-├── code/            # Python scripts (cleaner versions)
-└── README.md        # This file
+ 1) notebooks/        # Jupyter notebooks with full analysis
+ 2) code/             # Python scripts (cleaner versions)
+ 3) README.md         # This file
